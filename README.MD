@@ -27,7 +27,7 @@ Upload your images, add a text description, and let BrainRotAI create engaging I
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/mohammadhumzah/BrainRotAI>
    cd BrainrotAI
    ```
 
